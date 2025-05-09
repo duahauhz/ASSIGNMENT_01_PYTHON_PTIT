@@ -1,0 +1,330 @@
+
+Age:
+  Łukasz Fabiański (West Ham): 40.00
+  Ashley Young (Everton): 39.00
+  James Milner (Brighton): 39.00
+
+Matches Played:
+  Youri Tielemans (Aston Villa): 35.00
+  Raúl Jiménez (Fulham): 35.00
+  Bernd Leno (Fulham): 35.00
+
+Starts:
+  Youri Tielemans (Aston Villa): 35.00
+  Virgil van Dijk (Liverpool): 35.00
+  Tyrick Mitchell (Crystal Palace): 35.00
+
+Goals:
+  Mohamed Salah (Liverpool): 28.00
+  Alexander Isak (Newcastle Utd): 23.00
+  Erling Haaland (Manchester City): 21.00
+
+Assists:
+  Mohamed Salah (Liverpool): 18.00
+  Jacob Murphy (Newcastle Utd): 11.00
+  Bukayo Saka (Arsenal): 10.00
+
+Yellow Cards:
+  Saša Lukić (Fulham): 12.00
+  Morgan Gibbs-White (Nott'ham Forest): 11.00
+  Will Hughes (Crystal Palace): 11.00
+
+Red Cards:
+  Jack Stephens (Southampton): 2.00
+  Bruno Fernandes (Manchester Utd): 2.00
+  Myles Lewis-Skelly (Arsenal): 2.00
+
+Expected Goals (xG):
+  Mohamed Salah (Liverpool): 24.00
+  Erling Haaland (Manchester City): 20.80
+  Alexander Isak (Newcastle Utd): 19.90
+
+Expected Assist Goals (xAG):
+  Mohamed Salah (Liverpool): 13.20
+  Cole Palmer (Chelsea): 10.00
+  Son Heung-min (Tottenham): 8.20
+
+Progressive Carries (PrgC):
+  Jeremy Doku (Manchester City): 189.00
+  Mohamed Salah (Liverpool): 143.00
+  Noni Madueke (Chelsea): 142.00
+
+Progressive Passes (PrgP):
+  Bruno Fernandes (Manchester Utd): 281.00
+  Joško Gvardiol (Manchester City): 251.00
+  Bruno Guimarães (Newcastle Utd): 247.00
+
+Progressive Passes Received (PrgR):
+  Mohamed Salah (Liverpool): 440.00
+  Bryan Mbeumo (Brentford): 319.00
+  Alejandro Garnacho (Manchester Utd): 281.00
+
+Goals per 90:
+  Jáder Durán (Aston Villa): 0.99
+  Donyell Malen (Aston Villa): 0.92
+  James Mcatee (Manchester City): 0.89
+
+Assists per 90:
+  Tyrique George (Chelsea): 0.87
+  Danny Ings (West Ham): 0.63
+  Bukayo Saka (Arsenal): 0.58
+
+xG per 90:
+  James Mcatee (Manchester City): 0.83
+  Erling Haaland (Manchester City): 0.76
+  Enes Ünal (Bournemouth): 0.72
+
+xAG per 90:
+  Tyrique George (Chelsea): 0.63
+  Mykhailo Mudryk (Chelsea): 0.58
+  Luis Sinisterra (Bournemouth): 0.54
+
+Shots on Target Percentage (SoT%):
+  Séamus Coleman (Everton): 100.00
+  Archie Gray (Tottenham): 100.00
+  Ryan Fraser (Southampton): 100.00
+
+Shots on Target per 90 (SoT/90):
+  Julio Enciso (Brighton): 3.37
+  Donyell Malen (Aston Villa): 2.76
+  Luis Sinisterra (Bournemouth): 2.29
+
+Goals per Shot (G/Sh):
+  John Stones (Manchester City): 1.00
+  Myles Lewis-Skelly (Arsenal): 0.50
+  Axel Disasi (Chelsea): 0.50
+
+Average Shot Distance (Dist):
+  Ibrahim Sangaré (Nott'ham Forest): 32.00
+  Emmanuel Agbadou (Wolves): 31.80
+  Ryan Fraser (Southampton): 31.60
+
+Passes Completed (Cmp):
+  Virgil van Dijk (Liverpool): 2543.00
+  Joško Gvardiol (Manchester City): 2321.00
+  William Saliba (Arsenal): 2320.00
+
+Pass Completion Percentage (Cmp%):
+  William Saliba (Arsenal): 94.20
+  Nathan Aké (Manchester City): 93.90
+  Manuel Akanji (Manchester City): 93.90
+
+Total Passing Distance (TotDist):
+  Virgil van Dijk (Liverpool): 46352.00
+  Levi Colwill (Chelsea): 40277.00
+  William Saliba (Arsenal): 39927.00
+
+Short Pass Completion Percentage:
+  Łukasz Fabiański (West Ham): 100.00
+  Arijanet Muric (Ipswich Town): 100.00
+  Altay Bayındır (Manchester Utd): 100.00
+
+Medium Pass Completion Percentage:
+  Robin Olsen (Aston Villa): 100.00
+  Caoimhín Kelleher (Liverpool): 100.00
+  Martin Dúbravka (Newcastle Utd): 100.00
+
+Long Pass Completion Percentage:
+  Tyrell Malacia (Manchester Utd): 100.00
+  Andy Irving (West Ham): 100.00
+  Antony (Manchester Utd): 100.00
+
+Key Passes (KP):
+  Bruno Fernandes (Manchester Utd): 84.00
+  Mohamed Salah (Liverpool): 82.00
+  Cole Palmer (Chelsea): 82.00
+
+Passes into Final Third (1/3):
+  Virgil van Dijk (Liverpool): 269.00
+  Joško Gvardiol (Manchester City): 237.00
+  Youri Tielemans (Aston Villa): 228.00
+
+Passes into Penalty Area (PPA):
+  Mohamed Salah (Liverpool): 86.00
+  Martin Ødegaard (Arsenal): 81.00
+  Alex Iwobi (Fulham): 78.00
+
+Crosses into Penalty Area (CrsPA):
+  Antonee Robinson (Fulham): 28.00
+  Pedro Porro (Tottenham): 26.00
+  Milos Kerkez (Bournemouth): 23.00
+
+Shot-Creating Actions (SCA):
+  Cole Palmer (Chelsea): 190.00
+  Bruno Fernandes (Manchester Utd): 169.00
+  Mohamed Salah (Liverpool): 157.00
+
+SCA per 90:
+  Philip Billing (Bournemouth): 7.83
+  Luis Guilherme (West Ham): 6.52
+  Kevin De Bruyne (Manchester City): 6.08
+
+Goal-Creating Actions (GCA):
+  Mohamed Salah (Liverpool): 26.00
+  Bukayo Saka (Arsenal): 22.00
+  Mikkel Damsgaard (Brentford): 21.00
+
+GCA per 90:
+  Bukayo Saka (Arsenal): 1.29
+  Solly March (Brighton): 1.08
+  Amad Diallo (Manchester Utd): 0.93
+
+Tackles (Tkl):
+  Idrissa Gana Gueye (Everton): 124.00
+  Daniel Muñoz (Crystal Palace): 113.00
+  João Gomes (Wolves): 105.00
+
+Tackles Won (TklW):
+  Daniel Muñoz (Crystal Palace): 74.00
+  Idrissa Gana Gueye (Everton): 74.00
+  Moisés Caicedo (Chelsea): 64.00
+
+Challenges (Tkl):
+  Alexis Mac Allister (Liverpool): 104.00
+  Trent Alexander-Arnold (Liverpool): 103.00
+  João Gomes (Wolves): 102.00
+
+Challenges Lost (TklD):
+  João Gomes (Wolves): 60.00
+  Elliot Anderson (Nott'ham Forest): 57.00
+  Trent Alexander-Arnold (Liverpool): 55.00
+
+Blocks:
+  Nathan Collins (Brentford): 71.00
+  Murillo (Nott'ham Forest): 67.00
+  Tyrick Mitchell (Crystal Palace): 62.00
+
+Blocked Shots (Sh):
+  Nathan Collins (Brentford): 51.00
+  Dara O'Shea (Ipswich Town): 47.00
+  Murillo (Nott'ham Forest): 44.00
+
+Blocked Passes (Pass):
+  Alexis Mac Allister (Liverpool): 55.00
+  Antoine Semenyo (Bournemouth): 51.00
+  Tyrick Mitchell (Crystal Palace): 50.00
+
+Interceptions (Int):
+  Aaron Wan-Bissaka (West Ham): 60.00
+  Antonee Robinson (Fulham): 57.00
+  Ryan Gravenberch (Liverpool): 57.00
+
+Touches:
+  Virgil van Dijk (Liverpool): 3125.00
+  Joško Gvardiol (Manchester City): 2903.00
+  Levi Colwill (Chelsea): 2728.00
+
+Touches in Defensive Penalty Area:
+  Mark Flekken (Brentford): 1338.00
+  Bernd Leno (Fulham): 1097.00
+  Bart Verbruggen (Brighton): 1034.00
+
+Touches in Defensive Third:
+  Mark Flekken (Brentford): 1660.00
+  Jordan Pickford (Everton): 1494.00
+  Bernd Leno (Fulham): 1354.00
+
+Touches in Middle Third:
+  Virgil van Dijk (Liverpool): 1719.00
+  William Saliba (Arsenal): 1519.00
+  Joško Gvardiol (Manchester City): 1474.00
+
+Touches in Attacking Third:
+  Mohamed Salah (Liverpool): 1023.00
+  Bryan Mbeumo (Brentford): 913.00
+  Bruno Fernandes (Manchester Utd): 888.00
+
+Touches in Attacking Penalty Area:
+  Mohamed Salah (Liverpool): 327.00
+  Alexander Isak (Newcastle Utd): 178.00
+  Antoine Semenyo (Bournemouth): 176.00
+
+Take-Ons (Att):
+  Mohammed Kudus (West Ham): 194.00
+  Jeremy Doku (Manchester City): 185.00
+  Morgan Rogers (Aston Villa): 153.00
+
+Take-On Success Percentage (Succ%):
+  Łukasz Fabiański (West Ham): 100.00
+  Tyrell Malacia (Manchester Utd): 100.00
+  Tyrone Mings (Aston Villa): 100.00
+
+Take-On Tackled Percentage (Tkl%):
+  Armel Bella Kotchap (Southampton): 100.00
+  Danny Ward (Leicester City): 100.00
+  Nathaniel Clyne (Crystal Palace): 100.00
+
+Carries:
+  Joško Gvardiol (Manchester City): 1886.00
+  Virgil van Dijk (Liverpool): 1746.00
+  William Saliba (Arsenal): 1675.00
+
+Progressive Carrying Distance (TotDist):
+  Jan Paul van Hecke (Brighton): 6740.00
+  Joško Gvardiol (Manchester City): 5715.00
+  Rúben Dias (Manchester City): 5295.00
+
+Carries into Final Third (1/3):
+  Alex Iwobi (Fulham): 102.00
+  Joško Gvardiol (Manchester City): 92.00
+  Matheus Cunha (Wolves): 88.00
+
+Carries into Penalty Area (CPA):
+  Mohamed Salah (Liverpool): 115.00
+  Jeremy Doku (Manchester City): 90.00
+  Noni Madueke (Chelsea): 87.00
+
+Miscontrols (Mis):
+  Mohamed Salah (Liverpool): 109.00
+  Morgan Rogers (Aston Villa): 104.00
+  Bryan Mbeumo (Brentford): 99.00
+
+Dispossessed (Dis):
+  Mohammed Kudus (West Ham): 89.00
+  Dejan Kulusevski (Tottenham): 73.00
+  Bruno Guimarães (Newcastle Utd): 73.00
+
+Passes Received (Rec):
+  Virgil van Dijk (Liverpool): 2153.00
+  Joško Gvardiol (Manchester City): 2132.00
+  William Saliba (Arsenal): 2056.00
+
+Fouls Committed (Fls):
+  João Gomes (Wolves): 67.00
+  Liam Delap (Ipswich Town): 67.00
+  Antoine Semenyo (Bournemouth): 66.00
+
+Fouls Drawn (Fld):
+  Bruno Guimarães (Newcastle Utd): 100.00
+  Matheus Cunha (Wolves): 69.00
+  John McGinn (Aston Villa): 67.00
+
+Offsides (Off):
+  Dominic Calvert-Lewin (Everton): 27.00
+  Chris Wood (Nott'ham Forest): 26.00
+  Jamie Vardy (Leicester City): 25.00
+
+Crosses (Crs):
+  Pedro Porro (Tottenham): 191.00
+  Bryan Mbeumo (Brentford): 182.00
+  Bruno Fernandes (Manchester Utd): 172.00
+
+Ball Recoveries (Recov):
+  Moisés Caicedo (Chelsea): 203.00
+  Elliot Anderson (Nott'ham Forest): 197.00
+  Bruno Fernandes (Manchester Utd): 192.00
+
+Aerials Won (Won):
+  Dan Burn (Newcastle Utd): 134.00
+  Nathan Collins (Brentford): 112.00
+  Virgil van Dijk (Liverpool): 111.00
+
+Aerials Lost (Lost):
+  Chris Wood (Nott'ham Forest): 129.00
+  Jean-Philippe Mateta (Crystal Palace): 99.00
+  Jørgen Strand Larsen (Wolves): 96.00
+
+Aerials Won Percentage (Won%):
+  Alisson (Liverpool): 100.00
+  Aaron Ramsdale (Southampton): 100.00
+  Robert Sánchez (Chelsea): 100.00

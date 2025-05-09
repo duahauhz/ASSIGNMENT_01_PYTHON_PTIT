@@ -1,0 +1,532 @@
+player,club,market_value,rating
+Erling Haaland,Man City,€198.8M,92.8/100.0
+Martin Ødegaard,Arsenal,€126.5M,89.2/92.9
+Alexander Isak,Newcastle Utd.,€120.3M,82.0/84.9
+Cole Palmer,Chelsea,€115.4M,80.1/92.5
+Declan Rice,Arsenal,€107.8M,83.7/86.6
+Alexis Mac Allister,Liverpool,€106.1M,85.5/88.9
+Phil Foden,Man City,€105.7M,86.5/93.6
+Bukayo Saka,Arsenal,€101.3M,87.2/96.9
+Rodri,Man City,€87M,88.2/88.9
+Ryan Gravenberch,Liverpool,€85.3M,86.8/98.3
+Bruno Guimarães,Newcastle Utd.,€83.2M,80.9/82.6
+Moisés Caicedo,Chelsea,€80.7M,81.1/91.9
+William Saliba,Arsenal,€79.5M,88.9/96.7
+Omar Marmoush,Man City,€79.1M,77.1/79.4
+Joško Gvardiol,Man City,€78.7M,79.4/91.0
+Gabriel Magalhães,Arsenal,€75.5M,84.8/86.5
+Sávio,Man City,€74.8M,77.8/91.6
+Ethan Nwaneri,Arsenal,€74.3M,60.3/80.3
+Enzo Fernández,Chelsea,€73.7M,75.1/82.7
+Dominik Szoboszlai,Liverpool,€71.4M,86.9/93.8
+Brennan Johnson,Tottenham,€71.3M,76.4/84.3
+Lucas Paquetá,West Ham United,€71.2M,76.0/78.0
+Leny Yoro,Man Utd,€71M,70.5/88.1
+Luis Díaz,Liverpool,€71M,86.5/86.5
+Kai Havertz,Arsenal,€70.5M,85.1/89.1
+Morgan Rogers,Aston Villa,€69M,69.2/78.4
+Murillo,Nottingham,€68.4M,73.9/85.8
+Cody Gakpo,Liverpool,€67.5M,86.3/89.3
+Nicolas Jackson,Chelsea,€66.2M,81.5/91.3
+Jérémy Doku,Man City,€66.2M,80.1/89.3
+Kobbie Mainoo,Man Utd,€66M,68.8/87.2
+Jurrien Timber,Arsenal,€65.5M,75.2/84.6
+Rico Lewis,Man City,€62.7M,75.0/88.9
+Matheus Cunha,Wolverhampton,€62.6M,80.9/83.2
+Gabriel Martinelli,Arsenal,€62.6M,87.7/96.4
+Eberechi Eze,C. Palace,€62.2M,74.9/75.8
+Amadou Onana,Aston Villa,€62.1M,68.7/76.0
+Micky van de Ven,Tottenham,€61.8M,71.1/79.1
+Mohammed Kudus,West Ham United,€61.7M,73.1/79.0
+Morgan Gibbs-White,Nottingham,€61.7M,77.1/80.0
+Curtis Jones,Liverpool,€61.7M,77.9/84.0
+Miloš Kerkez,B'mouth,€61.5M,75.7/91.1
+Ollie Watkins,Aston Villa,€61.4M,80.4/80.9
+João Pedro,Brighton,€61.3M,71.0/78.5
+Darwin Núñez,Liverpool,€60.9M,80.5/84.1
+Alejandro Garnacho,Man Utd,€60.7M,70.9/87.1
+Pedro Neto,Chelsea,€60.6M,70.6/75.9
+Dejan Kulusevski,Tottenham,€60.5M,86.7/91.7
+Manuel Ugarte,Man Utd,€60.4M,72.5/79.6
+Cristian Romero,Tottenham,€60.1M,72.6/74.8
+Destiny Udogie,Tottenham,€59.4M,78.5/90.3
+Ben White,Arsenal,€58.8M,83.1/84.9
+Illia Zabarnyi,B'mouth,€58.8M,75.3/88.1
+Diogo Jota,Liverpool,€58.6M,83.2/83.6
+Rúben Dias,Man City,€58.5M,86.4/86.4
+Archie Gray,Tottenham,€58.2M,71.0/89.0
+James Maddison,Tottenham,€58.1M,81.2/81.2
+Ibrahima Konaté,Liverpool,€57.2M,81.4/85.4
+Bryan Mbeumo,Brentford,€57.2M,81.2/85.9
+Levi Colwill,Chelsea,€56.6M,78.1/91.4
+Mathys Tel,Tottenham,€56.4M,67.5/80.9
+Pedro Porro,Tottenham,€55.9M,74.6/79.7
+Trent Alexander-Arnold,Liverpool,€55.8M,85.3/87.4
+Dean Huijsen,B'mouth,€55M,65.2/82.3
+Rasmus Winther Højlund,Man Utd,€54.9M,77.1/87.8
+Bruno Fernandes,Man Utd,€54.8M,79.8/79.9
+Roméo Lavia,Chelsea,€54.6M,67.3/77.6
+Marc Guéhi,C. Palace,€54.2M,79.0/83.7
+Marcus Rashford,Aston Villa,€53.6M,79.1/79.2
+Sandro Tonali,Newcastle Utd.,€52.9M,78.0/82.3
+Sven Botman,Newcastle Utd.,€52.7M,73.2/77.6
+Carlos Baleba,Brighton,€52.4M,73.7/87.5
+Matthijs de Ligt,Man Utd,€52.2M,75.6/82.9
+Dominic Solanke,Tottenham,€52.1M,79.5/80.2
+Christopher Nkunku,Chelsea,€51.7M,79.1/81.0
+Noni Madueke,Chelsea,€51.6M,76.1/86.4
+João Gomes,Wolverhampton,€51.1M,71.4/77.2
+Pape Matar Sarr,Tottenham,€50.8M,70.5/80.6
+Kaoru Mitoma,Brighton,€50.6M,80.2/80.2
+Bernardo Silva,Man City,€50M,86.7/87.8
+Anthony Gordon,Newcastle Utd.,€49.5M,80.7/86.9
+Valentino Livramento,Newcastle Utd.,€49.3M,73.6/84.3
+Riccardo Calafiori,Arsenal,€49.3M,73.1/80.7
+Lisandro Martínez,Man Utd,€49.2M,73.0/74.5
+Adam Wharton,C. Palace,€48.9M,68.1/81.3
+Evan Ferguson,West Ham United,€48.5M,67.3/82.0
+Harvey Elliott,Liverpool,€48.5M,75.7/86.7
+Amad Diallo,Man Utd,€48.5M,69.4/76.9
+Nico González,Man City,€48.4M,71.6/78.1
+Abdukodir Khusanov,Man City,€48.4M,66.9/76.9
+Jarrod Bowen,West Ham United,€48.1M,73.5/75.3
+Antoine Semenyo,B'mouth,€47.7M,74.1/79.3
+Joelinton,Newcastle Utd.,€47.5M,77.0/77.0
+Elliot Anderson,Nottingham,€46.5M,79.6/89.8
+Antonee Robinson,Fulham,€46.4M,77.9/78.7
+Boubacar Kamara,Aston Villa,€46.3M,78.9/82.6
+Jacob Ramsey,Aston Villa,€45.8M,78.8/85.9
+Gabriel Jesus,Arsenal,€45.6M,89.5/89.5
+Anthony Elanga,Nottingham,€45.5M,75.0/82.6
+Pau Torres,Aston Villa,€45.3M,75.6/77.2
+Rayan Aït Nouri,Wolverhampton,€45M,70.5/77.7
+Justin Kluivert,B'mouth,€44.8M,79.3/81.7
+Joshua Zirkzee,Man Utd,€43.7M,73.5/80.1
+Jack Grealish,Man City,€43.5M,83.0/83.0
+Noussair Mazraoui,Man Utd,€43M,76.6/77.4
+Manuel Akanji,Man City,€42.8M,79.9/82.7
+Ezri Konsa,Aston Villa,€42.7M,75.9/76.1
+Yankuba Minteh,Brighton,€42.6M,74.0/85.6
+Jan Paul van Hecke,Brighton,€42.4M,72.3/78.6
+Matheus Nunes,Man City,€42.3M,71.6/72.7
+Guglielmo Vicario,Tottenham,€41.6M,72.3/72.3
+Youri Tielemans,Aston Villa,€41.5M,79.1/79.9
+Harvey Barnes,Newcastle Utd.,€41.5M,78.2/78.6
+Vitor Reis,Man City,€41.4M,58.6/77.4
+Georginio Rutter,Brighton,€41.3M,72.1/79.0
+Emile Smith Rowe,Fulham,€40.8M,75.7/80.3
+Ian Maatsen,Aston Villa,€40.6M,76.1/84.5
+Bilal El Khannouss,Leicester,€40.6M,64.6/79.6
+Mikel Merino,Arsenal,€40.5M,74.6/74.6
+Marc Cucurella,Chelsea,€39.4M,75.7/78.7
+Leon Bailey,Aston Villa,€39.2M,76.2/77.5
+Mohamed Salah,Liverpool,€38.5M,86.6/86.6
+Nikola Milenković,Nottingham,€38M,78.2/80.3
+Mykhaylo Mudryk,Chelsea,€37.8M,73.6/79.9
+Jadon Sancho,Chelsea,€37.7M,78.9/85.6
+Diogo Dalot,Man Utd,€37.4M,73.1/77.0
+Ferdi Kadıoğlu,Brighton,€37.4M,71.0/75.3
+Reece James,Chelsea,€37.3M,71.1/75.1
+Cheick Doucouré,C. Palace,€37.2M,73.5/76.5
+Pervis Estupiñán,Brighton,€37.1M,74.0/76.2
+Liam Delap,Ipswich Town,€37M,65.8/75.1
+Danilo,Nottingham,€36.9M,72.3/78.6
+Max Kilman,West Ham United,€36.7M,72.3/72.3
+Edson Álvarez,West Ham United,€36.5M,70.8/71.7
+Nathan Aké,Man City,€36.4M,76.1/76.1
+Jean-Clair Todibo,West Ham United,€36M,73.4/77.6
+Joe Willock,Newcastle Utd.,€35.8M,73.3/77.4
+Mason Mount,Man Utd,€35.5M,70.2/72.9
+Myles Lewis-Skelly,Arsenal,€34.9M,59.7/79.0
+Ibrahim Sangaré,Nottingham,€34.6M,65.0/65.2
+Lewis Hall,Newcastle Utd.,€34.5M,72.1/88.0
+André Onana,Man Utd,€34.2M,73.5/76.9
+Simon Adingra,Brighton,€34M,67.6/75.0
+Vitaliy Mykolenko,Everton,€33.5M,75.7/77.8
+Nathan Collins,Brentford,€33.3M,74.2/80.2
+Matty Cash,Aston Villa,€32.9M,74.9/74.9
+Malo Gusto,Chelsea,€32.8M,75.6/88.2
+Tyler Dibling,Southampton,€32.7M,53.3/81.5
+Lucas Bergvall,Tottenham,€32.6M,67.0/83.0
+Jarrad Branthwaite,Everton,€32.2M,77.2/85.6
+Leandro Trossard,Arsenal,€31.8M,79.5/79.5
+Jean-Philippe Mateta,C. Palace,€31.7M,74.8/74.8
+Rodrigo Bentancur,Tottenham,€31.5M,74.3/75.0
+Patrick Dorgu,Man Utd,€31.5M,64.8/81.6
+Joachim Andersen,Fulham,€31.4M,78.6/78.6
+Yoane Wissa,Brentford,€31.4M,76.7/76.7
+Daniel Muñoz,C. Palace,€30.9M,77.5/77.5
+Jørgen Strand Larsen,Wolverhampton,€30.8M,72.5/76.7
+Facundo Buonanotte,Leicester,€30.7M,66.8/84.2
+Heung-min Son,Tottenham,€30.7M,80.9/80.9
+Bart Verbruggen,Brighton,€30.7M,72.3/84.4
+Wesley Fofana,Chelsea,€30.3M,72.6/77.7
+Alex Iwobi,Fulham,€30.3M,76.3/76.3
+Callum Hudson-Odoi,Nottingham,€30.2M,81.4/86.4
+Calvin Bassey,Fulham,€29.9M,73.3/79.3
+Taylor Harwood-Bellis,Southampton,€29.9M,66.9/79.9
+André,Wolverhampton,€29.8M,71.5/79.3
+Yves Bissouma,Tottenham,€29.8M,71.4/71.7
+Kevin Schade,Brentford,€29.7M,71.1/76.5
+John Stones,Man City,€29.7M,75.0/76.2
+Brajan Gruda,Brighton,€29.4M,62.8/74.8
+David Raya,Arsenal,€28.9M,86.5/86.5
+Mikkel Damsgaard,Brentford,€28.6M,73.4/78.0
+Benoît Badiashile,Chelsea,€28.5M,70.2/77.6
+Lewis Miley,Newcastle Utd.,€28.5M,59.4/78.1
+Dango Ouattara,B'mouth,€28.5M,72.9/80.4
+Radu Drăguşin,Tottenham,€28.4M,69.6/78.5
+Leif Davis,Ipswich Town,€28.2M,67.0/73.9
+Conor Bradley,Liverpool,€27.9M,65.5/75.2
+Oscar Bobb,Man City,€27.9M,55.5/65.4
+Sander Berge,Fulham,€27.8M,72.4/72.7
+Maxence Lacroix,C. Palace,€27.7M,76.4/80.0
+Alex Scott,B'mouth,€27.6M,66.4/77.6
+Axel Disasi,Aston Villa,€27.5M,69.1/69.7
+O. Hutchinson,Ipswich Town,€27.4M,64.9/79.9
+Kevin Danso,Tottenham,€27.2M,72.6/74.2
+Keane Lewis-Potter,Brentford,€27.1M,71.8/77.4
+Vitaly Janelt,Brentford,€27.1M,77.0/77.8
+Lesley Ugochukwu,Southampton,€27M,62.1/74.4
+Dwight McNeil,Everton,€27M,70.8/75.4
+Evanilson,B'mouth,€26.9M,73.4/77.4
+Aaron Wan-Bissaka,West Ham United,€26.9M,74.4/75.0
+Richarlison,Tottenham,€26.7M,72.6/72.7
+Luis Guilherme,West Ham United,€26.6M,50.1/65.3
+Sepp van den Berg,Brentford,€26.4M,71.5/79.4
+Jarell Quansah,Liverpool,€26.2M,62.6/73.4
+Crysencio Summerville,West Ham United,€25.9M,65.2/71.3
+Igor Thiago,Brentford,€25.9M,63.8/70.1
+Filip Jørgensen,Chelsea,€25.9M,65.0/73.6
+Iliman Ndiaye,Everton,€25.7M,68.5/72.9
+Ismaïla Sarr,C. Palace,€25.7M,69.9/70.1
+Matt O'Riley,Brighton,€25.6M,66.1/71.9
+Joe Gomez,Liverpool,€25.3M,75.8/76.5
+Mateo Kovačić,Man City,€25.3M,77.7/77.7
+Wilson Odobert,Tottenham,€25.1M,67.9/81.0
+Jacob Greaves,Ipswich Town,€25.1M,65.2/73.1
+Igor Júlio,Brighton,€25M,72.1/72.9
+Wout Faes,Leicester,€25M,67.2/70.8
+Michael Kayode,Brentford,€25M,67.7/80.4
+Jakub Kiwior,Arsenal,€25M,69.8/73.7
+Aaron Hickey,Brentford,€24.9M,72.4/85.1
+Robert Sánchez,Chelsea,€24.9M,75.8/75.8
+Kiernan Dewsbury-Hall,Chelsea,€24.9M,67.8/68.8
+Julio Enciso,Ipswich Town,€24.9M,69.6/80.5
+Edward Nketiah,C. Palace,€24.8M,70.1/72.8
+Tyrick Mitchell,C. Palace,€24.6M,80.7/83.8
+Claudio Echeverri,Man City,€24.4M,54.9/75.0
+Jesper Lindstrøm,Everton,€24.4M,70.6/73.7
+Marcus Tavernier,B'mouth,€24.4M,71.8/74.8
+Tyler Adams,B'mouth,€24.4M,72.9/75.9
+Beto,Everton,€24.4M,66.7/66.7
+Orel Mangala,Everton,€24.4M,71.2/71.5
+Tosin Adarabioyo,Chelsea,€24.3M,74.1/74.1
+Virgil van Dijk,Liverpool,€24.3M,79.8/80.3
+Alisson,Liverpool,€24.1M,78.0/78.0
+Andrew Robertson,Liverpool,€24M,80.2/80.6
+Victor Kristiansen,Leicester,€23.9M,69.6/83.9
+Mikey Moore,Tottenham,€23.7M,47.9/69.8
+Konstantinos Tsimikas,Liverpool,€23.6M,69.4/69.4
+Carlos Soler,West Ham United,€23.4M,71.4/71.6
+Neco Williams,Nottingham,€23.4M,71.6/78.5
+Tomáš Souček,West Ham United,€23.2M,75.6/75.6
+James Garner,Everton,€23.2M,74.9/80.4
+Takehiro Tomiyasu,Arsenal,€22.9M,72.9/77.1
+Dean Henderson,C. Palace,€22.7M,78.0/78.0
+Jordan Pickford,Everton,€22.6M,75.3/75.3
+Mateus Fernandes,Southampton,€22.5M,61.5/79.1
+John McGinn,Aston Villa,€22.5M,77.0/77.0
+J. Philogene,Ipswich Town,€22.3M,61.7/67.3
+Abdul Fatawu Issahaku,Leicester,€21.9M,66.2/79.9
+Kristoffer Ajer,Brentford,€21.5M,71.9/72.1
+Donyell Malen,Aston Villa,€21.4M,80.6/83.4
+Yasin Ayari,Brighton,€21.4M,67.1/79.5
+Chadi Riad,C. Palace,€21.4M,63.3/76.9
+Reiss Nelson,Fulham,€21.3M,67.0/69.6
+Jean-Ricner Bellegarde,Wolverhampton,€21.3M,68.6/69.1
+Sean Longstaff,Newcastle Utd.,€21.3M,78.9/80.5
+Federico Chiesa,Liverpool,€21.2M,68.1/68.7
+Caoimhin Kelleher,Liverpool,€20.9M,59.6/62.6
+Fabio Carvalho,Brentford,€20.6M,70.5/78.5
+Marcos Senesi,B'mouth,€20.4M,69.2/70.7
+Ben Chilwell,C. Palace,€20.4M,69.2/69.2
+Wilfred Ndidi,Leicester,€20.3M,69.3/70.8
+Taiwo Awoniyi,Nottingham,€20.2M,66.9/66.9
+Trevoh Chalobah,Chelsea,€20.1M,75.2/78.8
+Kevin De Bruyne,Man City,€20.1M,84.9/84.9
+Felipe Morato,Nottingham,€20M,67.3/74.1
+Antonín Kinský,Tottenham,€20M,63.0/71.9
+Oleksandr Zinchenko,Arsenal,€19.9M,79.1/79.2
+Nathan Patterson,Everton,€19.9M,59.8/64.3
+James McAtee,Man City,€19.8M,63.4/71.6
+Mads Hermansen,Leicester,€19.8M,62.5/70.5
+Djed Spence,Tottenham,€19.8M,72.5/76.5
+Jake O'Brien,Everton,€19.7M,65.4/69.0
+Marco Asensio,Aston Villa,€19.6M,77.6/77.6
+Carlos Alcaraz,Everton,€19.6M,69.9/78.3
+Dara O'Shea,Ipswich Town,€19.5M,64.8/69.8
+Jack Clarke,Ipswich Town,€19.4M,62.8/67.8
+Romain Esse,C. Palace,€19.4M,57.7/76.5
+Lewis Cook,B'mouth,€19.3M,72.7/73.6
+Ederson,Man City,€19.1M,80.2/80.2
+Konstantinos Mavropanos,West Ham United,€19.1M,68.8/69.2
+Andreas Pereira,Fulham,€19M,75.7/75.7
+Nicolás Domínguez,Nottingham,€18.8M,74.3/75.4
+Ola Aina,Nottingham,€18.8M,74.2/74.7
+Aaron Ramsdale,Southampton,€18.7M,67.3/71.5
+Toti Gomes,Wolverhampton,€18.6M,70.6/72.1
+Armando Broja,Everton,€18.6M,64.8/70.9
+Cameron Archer,Southampton,€18.6M,66.2/73.8
+Kamaldeen Sulemana,Southampton,€18.5M,65.6/71.7
+Ryan Yates,Nottingham,€18.3M,72.2/74.0
+Marshall Munetsi,Wolverhampton,€18.3M,68.3/68.3
+Yehor Yarmoliuk,Brentford,€18M,65.9/75.9
+Emmanuel Agbadou,Wolverhampton,€18M,68.7/68.7
+Jacob Murphy,Newcastle Utd.,€17.9M,77.2/77.2
+Issa Diop,Fulham,€17.9M,70.8/71.5
+Dominic Calvert-Lewin,Everton,€17.8M,67.6/68.8
+Jack Harrison,Everton,€17.7M,72.0/72.0
+Hee-chan Hwang,Wolverhampton,€17.6M,69.0/69.1
+Raheem Sterling,Arsenal,€17.5M,77.1/77.1
+Emiliano Martínez,Aston Villa,€17.5M,74.2/74.2
+Luke Shaw,Man Utd,€17.5M,72.7/72.7
+Jota Silva,Nottingham,€17.4M,63.7/65.7
+Ramón Sosa,Nottingham,€17.4M,62.1/64.7
+Timothy Castagne,Fulham,€17.4M,75.9/75.9
+Kalvin Phillips,Ipswich Town,€17.2M,66.6/66.7
+James Justin,Leicester,€17M,67.9/70.6
+Oliver Skipp,Leicester,€17M,70.0/76.8
+Mats Wieffer,Brighton,€16.8M,65.7/70.1
+Youssef Chermiti,Everton,€16.8M,51.4/62.0
+Marc Guiu,Chelsea,€16.7M,43.1/62.7
+Caleb Okoli,Leicester,€16.7M,64.3/73.0
+Kyle Walker-Peters,Southampton,€16.6M,65.5/67.6
+Albert Grønbæk,Southampton,€16.6M,62.1/67.9
+Enes Ünal,B'mouth,€16.4M,64.8/64.8
+Gonçalo Guedes,Wolverhampton,€16.2M,71.2/71.2
+Ryan Christie,B'mouth,€16.2M,76.7/76.7
+Yukinari Sugawara,Southampton,€15.7M,65.6/72.2
+Chris Richards,C. Palace,€15.7M,71.1/75.3
+Tyrique George,Chelsea,€15.7M,46.2/62.2
+Matheus França,C. Palace,€15.5M,59.7/70.0
+Jens Cajuste,Ipswich Town,€15.5M,66.1/68.8
+Luis Sinisterra,B'mouth,€15.4M,65.2/67.9
+Boubakary Soumaré,Leicester,€15.4M,69.0/74.1
+Armel Bella-Kotchap,Southampton,€15.4M,64.6/70.5
+Mathis Amougou,Chelsea,€15.3M,48.7/65.9
+Thomas Partey,Arsenal,€15.2M,77.2/77.2
+Nasser Djiga,Wolverhampton,€14.7M,59.2/73.1
+Rico Henry,Brentford,€14.7M,71.7/73.8
+Mathias Jensen,Brentford,€14.7M,74.2/74.2
+Daichi Kamada,C. Palace,€14.6M,71.5/71.5
+Harry Wilson,Fulham,€14.5M,76.0/76.0
+Christian Nørgaard,Brentford,€14.4M,73.7/73.7
+Julian Araujo,B'mouth,€14.3M,64.3/71.3
+Sammie Szmodics,Ipswich Town,€14.1M,61.3/61.3
+Kenny Tete,Fulham,€14M,70.7/71.6
+Tommy Doyle,Wolverhampton,€14M,66.7/73.3
+Patson Daka,Leicester,€14M,66.1/70.3
+Tim Iroegbunam,Everton,€13.8M,57.6/66.0
+Harry Maguire,Man Utd,€13.7M,67.6/68.2
+Bernd Leno,Fulham,€13.7M,74.0/74.0
+Guido Rodríguez,West Ham United,€13.6M,71.6/71.6
+Lucas Digne,Aston Villa,€13.6M,71.2/71.2
+Jefferson Lerma,C. Palace,€13.6M,70.8/70.8
+Mark Flekken,Brentford,€13.6M,72.0/72.0
+Tariq Lamptey,Brighton,€13.6M,66.9/70.1
+Victor Lindelöf,Man Utd,€13.5M,67.8/67.8
+Niclas Füllkrug,West Ham United,€13.4M,66.0/66.0
+Altay Bayındır,Man Utd,€13.2M,60.3/62.9
+Aaron Anselmino,Chelsea,€13.2M,57.5/69.0
+Julio Soler,B'mouth,€13.2M,62.9/75.8
+Pedro Lima,Wolverhampton,€13.1M,45.3/64.1
+Carlos Forbs,Wolverhampton,€13M,54.9/67.6
+David Brooks,B'mouth,€13M,65.9/65.9
+Jan Bednarek,Southampton,€12.9M,63.8/64.6
+David Datro Fofana,Chelsea,€12.9M,65.9/75.4
+Stephy Mavididi,Leicester,€12.9M,66.8/70.1
+Paul Onuachu,Southampton,€12.7M,63.1/63.1
+Ben Johnson,Ipswich Town,€12.6M,66.6/70.6
+Emerson Palmieri,West Ham United,€12.6M,67.0/67.0
+Yerson Mosquera,Wolverhampton,€12.4M,67.3/76.1
+Odsonne Édouard,Leicester,€12.4M,70.0/72.6
+Adam Webster,Brighton,€12.2M,71.4/71.4
+Saša Lukić,Fulham,€12.1M,72.1/72.1
+İlkay Gündoğan,Man City,€12.1M,81.2/81.2
+Kepa Arrizabalaga,B'mouth,€12M,72.2/75.0
+Alphonse Aréola,West Ham United,€11.8M,66.6/66.6
+Ryan Sessegnon,Fulham,€11.8M,68.5/71.8
+James Tarkowski,Everton,€11.8M,74.9/74.9
+Nick Pope,Newcastle Utd.,€11.7M,70.1/71.3
+Casemiro,Man Utd,€11.6M,72.4/72.4
+Harry Winks,Leicester,€11.4M,68.2/68.4
+Eiran Joe Cashin,Brighton,€11.3M,58.3/66.2
+James Ward-Prowse,West Ham United,€11.2M,66.9/66.9
+Santiago Bueno,Wolverhampton,€11.2M,68.6/71.2
+Will Hughes,C. Palace,€11.1M,72.5/72.5
+Wataru Endo,Liverpool,€11.1M,68.3/68.3
+Álex Moreno,Nottingham,€11M,68.5/69.2
+Fabian Schär,Newcastle Utd.,€11M,70.9/70.9
+Harry Souttar,Leicester,€10.8M,66.9/66.9
+Toby Collyer,Man Utd,€10.7M,54.0/62.4
+Ben Godfrey,Ipswich Town,€10.5M,64.4/66.8
+Andrés García,Aston Villa,€10.4M,60.5/68.3
+William Osula,Newcastle Utd.,€10.3M,58.5/67.1
+Timo Werner,Tottenham,€10.3M,75.8/76.0
+Arijanet Murić,Ipswich Town,€10.1M,68.1/71.1
+Chiedozie Ogbene,Ipswich Town,€9.8M,62.0/63.0
+Conor Chaplin,Ipswich Town,€9.8M,63.5/64.7
+Jack Hinshelwood,Brighton,€9.2M,68.5/84.7
+Flynn Downes,Southampton,€9.2M,64.6/68.0
+Dan Burn,Newcastle Utd.,€9.1M,77.0/77.0
+Juan Larios,Southampton,€9.1M,51.4/64.9
+Matz Sels,Nottingham,€9.1M,72.7/73.4
+Vítězslav Jaroš,Liverpool,€8.9M,50.3/59.7
+Oliver Scarles,West Ham United,€8.7M,60.9/70.7
+José Sá,Wolverhampton,€8.5M,69.9/69.9
+Yunus Konak,Brentford,€8.4M,55.5/71.1
+Nélson Semedo,Wolverhampton,€8.4M,72.4/72.4
+Will Smallbone,Southampton,€8.4M,63.2/66.8
+Rodrigo Muniz,Fulham,€8.2M,66.7/71.6
+Adama Traoré,Fulham,€8M,68.7/68.7
+Tyler Morton,Liverpool,€7.9M,59.8/67.9
+Matt Targett,Newcastle Utd.,€7.9M,66.0/66.0
+Sam Johnstone,Wolverhampton,€7.9M,60.6/61.6
+Jorge Cuenca,Fulham,€7.8M,64.3/67.0
+Luke Thomas,Leicester,€7.8M,63.6/69.2
+Chris Wood,Nottingham,€7.8M,73.1/73.1
+George Hirst,Ipswich Town,€7.7M,62.4/63.6
+Ethan Pinnock,Brentford,€7.6M,70.5/70.5
+Daniel Jebbison,B'mouth,€7.5M,58.8/67.6
+Kieran Tierney,Arsenal,€7.4M,72.9/72.9
+Lewis Dunk,Brighton,€7.4M,69.6/71.0
+Ross Barkley,Aston Villa,€7.3M,68.4/68.4
+Solly March,Brighton,€7.3M,62.4/62.4
+Callum Wilson,Newcastle Utd.,€7.3M,63.5/63.5
+Matt Turner,C. Palace,€7M,54.1/54.1
+Justin Devenny,C. Palace,€6.9M,56.1/67.0
+Joe Aribo,Southampton,€6.9M,63.3/64.1
+Harrison Reed,Fulham,€6.7M,69.0/69.0
+Ayden Heaven,Man Utd,€6.7M,50.3/71.0
+Andy Irving,West Ham United,€6.5M,52.9/55.1
+Joachim Kayi Sanda,Southampton,€6.3M,46.4/70.3
+Saša Kalajdžić,Wolverhampton,€6.3M,66.1/66.8
+Nathan Broadhead,Ipswich Town,€6.1M,63.3/63.3
+Nathan Wood,Southampton,€6.1M,57.2/65.0
+Lamare Bogarde,Aston Villa,€6M,54.6/66.3
+Danny Welbeck,Brighton,€6M,72.1/72.1
+Abdoulaye Doucouré,Everton,€5.8M,69.1/69.1
+Stefan Ortega,Man City,€5.8M,61.7/61.7
+Tyrone Mings,Aston Villa,€5.8M,69.5/69.5
+Joël Veltman,Brighton,€5.7M,74.8/74.8
+Ben Davies,Tottenham,€5.6M,66.4/66.4
+Sergio Reguilón,Tottenham,€5.6M,68.2/68.6
+Joshua Dasilva,Brentford,€5.4M,66.9/70.3
+Jorginho,Arsenal,€5.3M,74.9/74.9
+Kieran Trippier,Newcastle Utd.,€5.1M,69.5/69.5
+Raúl Jiménez,Fulham,€5.1M,68.8/68.8
+Idrissa Gueye,Everton,€5M,71.6/71.6
+Dane Scarlett,Tottenham,€4.9M,51.7/63.9
+Pablo Sarabia,Wolverhampton,€4.9M,67.3/67.3
+Vladimír Coufal,West Ham United,€4.8M,66.7/66.7
+Danny Ings,West Ham United,€4.6M,59.6/59.6
+Odysseas Vlachodimos,Newcastle Utd.,€4.6M,65.4/66.4
+Matai Akinmboni,B'mouth,€4.6M,45.1/67.2
+Carlos Miguel,Nottingham,€4.4M,49.6/50.2
+Carl Rushworth,Brighton,€4.4M,59.6/64.7
+Joshua King,Fulham,€4.4M,48.7/68.3
+Eric da Silva Moreira,Nottingham,€4.3M,45.7/67.7
+Axel Tuanzebe,Ipswich Town,€4.2M,62.4/63.0
+Christian Eriksen,Man Utd,€4.2M,66.9/66.9
+Matt Doherty,Wolverhampton,€4.2M,68.1/68.1
+Jordan Ayew,Leicester,€4.2M,65.5/66.4
+Ricardo Pereira,Leicester,€4.1M,60.8/60.8
+Welington,Southampton,€4M,61.1/67.3
+Ryan Manning,Southampton,€3.9M,62.2/62.4
+Jack Taylor,Ipswich Town,€3.8M,57.2/58.9
+Ross Stewart,Southampton,€2.8M,49.9/49.9
+Bobby Reid,Leicester,€2.7M,64.0/64.0
+Jamaal Lascelles,Newcastle Utd.,€2.7M,65.0/66.3
+Hákon Rafn Valdimarsson,Brentford,€2.4M,63.0/67.9
+Carlos Vinícius,Fulham,€2.4M,63.3/63.3
+Michael Keane,Everton,€2.3M,57.4/57.4
+Ryan Fraser,Southampton,€2.3M,59.0/59.0
+Michael Golding,Leicester,€2.3M,48.8/67.3
+Harry Toffolo,Nottingham,€2.2M,62.1/62.1
+Conor Coady,Leicester,€2.2M,61.3/61.3
+Daniel Iversen,Leicester,€2.1M,63.2/63.4
+James Hill,B'mouth,€2.1M,54.7/61.8
+Wes Burns,Ipswich Town,€2.1M,64.4/64.4
+Charlie Taylor,Southampton,€2.1M,63.6/64.4
+Jannik Vestergaard,Leicester,€2M,61.7/61.7
+Emil Krafth,Newcastle Utd.,€2M,58.8/58.8
+Jamal Lewis,Newcastle Utd.,€2M,59.8/60.2
+Luke Woolfenden,Ipswich Town,€2M,65.0/68.3
+James Bree,Southampton,€1.9M,59.9/60.8
+Woyo Coulibaly,Leicester,€1.9M,59.6/63.6
+Caleb Kporha,C. Palace,€1.7M,48.3/62.0
+Cameron Burgess,Ipswich Town,€1.7M,61.7/62.8
+Alex Palmer,Ipswich Town,€1.6M,64.4/67.5
+Neto,Arsenal,€1.6M,61.3/62.7
+Kortney Hause,Aston Villa,€1.5M,62.4/63.6
+Daniel Bentley,Wolverhampton,€1.5M,53.7/54.2
+Adam Smith,B'mouth,€1.5M,68.5/68.7
+Craig Dawson,Wolverhampton,€1.5M,64.4/64.4
+Jason Steele,Brighton,€1.5M,51.5/52.0
+Kasey McAteer,Leicester,€1.5M,55.1/61.3
+Tom Cairney,Fulham,€1.5M,61.7/61.7
+Malcolm Ebiowei,C. Palace,€1.5M,52.3/62.2
+Christian Walton,Ipswich Town,€1.4M,56.6/56.7
+Jack Stephens,Southampton,€1.4M,60.6/61.0
+Willy Boly,Nottingham,€1.4M,57.6/57.6
+Omari Kellyman,Chelsea,€1.4M,45.0/66.2
+Ashley Young,Everton,€1.3M,72.5/72.5
+Sam Morsy,Ipswich Town,€1.3M,65.0/65.6
+Willian,Fulham,€1.3M,67.4/67.4
+Wesley Foderingham,West Ham United,€1.3M,59.7/60.9
+Martin Dúbravka,Newcastle Utd.,€1.3M,62.2/62.2
+Conor Townsend,Ipswich Town,€1.2M,58.7/58.7
+Will Dennis,B'mouth,€1.2M,58.2/64.3
+Cieran Slicker,Ipswich Town,€1.2M,54.7/61.6
+James Milner,Brighton,€1.2M,66.2/66.2
+Jonny Evans,Man Utd,€1.1M,60.4/60.4
+Nathaniel Clyne,C. Palace,€1M,62.0/62.8
+Steven Benda,Fulham,€1M,50.4/51.8
+Kim Ji-Soo,Brentford,€1M,49.1/60.8
+Marcus Bettinelli,Chelsea,€1M,55.5/56.3
+Jamie Vardy,Leicester,€1M,67.3/69.5
+Michail Antonio,West Ham United,€1.0M,70.2/70.2
+Robin Olsen,Aston Villa,€0.9M,46.0/46.0
+Ben Mee,Brentford,€0.9M,62.6/62.6
+Danny Ward,Leicester,€0.9M,50.1/50.1
+Kaden Rodney,C. Palace,€0.9M,59.0/71.0
+Adam Lallana,Southampton,€0.9M,58.4/58.4
+Łukasz Fabiański,West Ham United,€0.9M,64.4/64.4
+Asmir Begović,Everton,€0.8M,61.2/61.2
+Aaron Cresswell,West Ham United,€0.8M,62.6/62.6
+Edmond-Paris Maghoma,Brentford,€0.8M,52.2/56.8
+Brandon Austin,Tottenham,€0.8M,44.4/45.2
+Joe Lumley,Southampton,€0.7M,58.4/58.4
+John Ruddy,Newcastle Utd.,€0.7M,60.5/60.5
+Séamus Coleman,Everton,€0.7M,59.8/59.8
+Harry Amass,Man Utd,€0.7M,43.8/63.6
+Jakub Stolarczyk,Leicester,€0.7M,52.8/54.8
+Fraser Forster,Tottenham,€0.7M,52.4/52.4
+Joel Ward,C. Palace,€0.7M,58.1/58.1
+Harvey Davies,Liverpool,€0.6M,54.1/68.8
+Alex McCarthy,Southampton,€0.6M,52.2/52.2
+Tom King,Wolverhampton,€0.6M,51.1/51.1
+Lucas Bergström,Chelsea,€0.6M,52.4/60.6
+João Virgínia,Everton,€0.6M,51.7/54.4
+Tom McGill,Brighton,€0.5M,49.8/53.1
+Massimo Luongo,Ipswich Town,€0.5M,56.7/56.7
+Alfie Whiteman,Tottenham,€0.5M,49.1/53.1
+Remi Matthews,C. Palace,€0.4M,47.7/47.8
+Mark Gillespie,Newcastle Utd.,€0.4M,43.7/44.7
+Wayne Hennessey,Nottingham,€0.4M,45.4/45.4
+Scott Carson,Man City,€0.4M,44.5/44.9
+Tom Heaton,Man Utd,€0.4M,46.8/46.8
+Ranel Young,Liverpool,€0.2M,43.6/60.6
+Rento Takaoka,Southampton,€0.2M,32.6/32.6
+Richard Olise,Chelsea,€90K,47.0/57.5
